@@ -1,0 +1,6 @@
+# dados reais e modelos treinados NUNCA sobem
+*.xlsx
+*.joblib
+
+# exceção: o exemplo fictício PODE subir
+!exemplo_base.xlsx
